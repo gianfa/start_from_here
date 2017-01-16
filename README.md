@@ -1,3 +1,6 @@
+# interests
+[Neuro & geeknering](https://www.facebook.com/neuromachinebrain/). It's a fb page that I opened with some friends to publish news about brain, and sciences and technologies related to it.
+
 # utilities
 Here I'll put some links to some tools I made in the past, for personal purposes or work.
 
