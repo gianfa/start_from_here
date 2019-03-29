@@ -19,7 +19,10 @@ Here are some of my notes of this kind.
 ## Utilities
 Here are links to some tools I made in the past, for personal purposes or work.
 
+* [oro-facial_classifier](https://github.com/gianfa/oro-facial_classifier) ![Language](https://img.shields.io/badge/-Matlab-pink.svg)
+* [PlayNeurons](https://github.com/gianfa/PlayNeurons) ![Language](https://img.shields.io/badge/-Matlab-pink.svg)
 * Ombro cinema online  
 Tool to create a nice ombroCinema picture. Still in alpha version, need some adjustment. I created this for the master thesis work of a friend of mine, Bilgesu Dogan, Designer. 
 [Ombro alfa]
 (http://www.omgd.altervista.org/appTest/ombroCinema/index.php)
+* [vimeoEasy](https://github.com/gianfa/vimeoEasy)
