@@ -14,7 +14,7 @@ Here are some of my notes of this kind.
 * [FastAI course notes](https://github.com/gianfa/fastai_notes) ![Language](https://img.shields.io/badge/-Python-green.svg)
 * [Travis for testing](https://github.com/gianfa/tutorials-travis_testing_python) ![Language](https://img.shields.io/badge/-Python-green.svg)
 * [Data-Forge](https://github.com/gianfa/tutorials-dataForge) ![Language](https://img.shields.io/badge/-NodeJS-orange.svg)
-* [testing-jest](https://github.com/gianfa/tutorial-testing-jest) ![Language](https://img.shields.io/badge/-NodeJS-orange.svg)
+* [Jest for testing](https://github.com/gianfa/tutorial-testing-jest) ![Language](https://img.shields.io/badge/-NodeJS-orange.svg)
 * [mongoose_discriminator](https://github.com/gianfa/tutorials-mongoose_discriminator) ![Language](https://img.shields.io/badge/-NodeJS-orange.svg)
 * [GraphQL](https://github.com/gianfa/tutorials-GraphQL) ![Language](https://img.shields.io/badge/-NodeJS-orange.svg)
 
