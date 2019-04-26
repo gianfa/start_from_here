@@ -18,7 +18,12 @@ Here are some of my notes of this kind.
 * [mongoose_discriminator](https://github.com/gianfa/tutorials-mongoose_discriminator) ![Language](https://img.shields.io/badge/-NodeJS-orange.svg)
 * [GraphQL](https://github.com/gianfa/tutorials-GraphQL) ![Language](https://img.shields.io/badge/-NodeJS-orange.svg)
 
+
 ## Utilities
+
+Links
+* [Deep Learning useful resources]
+
 Here are links to some tools I made in the past, for personal purposes or work.
 
 * [oro-facial_classifier](https://github.com/gianfa/oro-facial_classifier) ![Language](https://img.shields.io/badge/-Matlab-pink.svg)
