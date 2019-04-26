@@ -22,7 +22,7 @@ Here are some of my notes of this kind.
 ## Utilities
 
 Links
-* [Deep Learning useful resources]
+* [Deep Learning useful resources](https://github.com/gianfa/deep_learning_resources/blob/master/README.md)
 
 Here are links to some tools I made in the past, for personal purposes or work.
 
