@@ -17,7 +17,7 @@ Here are some of my notes of this kind.
 * [Jest for testing](https://github.com/gianfa/tutorial-testing-jest) ![Language](https://img.shields.io/badge/-NodeJS-orange.svg) ![Testing](https://img.shields.io/badge/-testing-9fefef.svg)
 * [mongoose_discriminator](https://github.com/gianfa/tutorials-mongoose_discriminator) ![Language](https://img.shields.io/badge/-NodeJS-orange.svg)
 * [GraphQL](https://github.com/gianfa/tutorials-GraphQL) ![Language](https://img.shields.io/badge/-NodeJS-orange.svg)
-
+* [JS Promises](https://gist.github.com/gianfa/3cc0eee029bd375e83c436218fffb220) ![Language](https://img.shields.io/badge/-NodeJS-orange.svg)
 
 ## Utilities
 
