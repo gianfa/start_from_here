@@ -23,13 +23,16 @@ Here are some of my notes of this kind.
 
 ## Utilities
 
-Links
-* [Deep Learning useful resources](https://github.com/gianfa/deep_learning_resources/blob/master/README.md)
+### Mini projects
+Here are links to some tools I made, for personal purposes or work.
 
-Here are links to some tools I made in the past, for personal purposes or work.
-
+* [Web CV](cvgian.herokuapp.com), check the mini projects page
 * [oro-facial_classifier](https://github.com/gianfa/oro-facial_classifier) ![Language](https://img.shields.io/badge/-Matlab-pink.svg)
 * [PlayNeurons](https://github.com/gianfa/PlayNeurons) ![Language](https://img.shields.io/badge/-Matlab-pink.svg)
 * [Ombro cinema online, Alpha](http://www.omgd.altervista.org/appTest/ombroCinema/index.php)
 Tool to create a nice ombroCinema picture. Still in alpha version, need some adjustment. I created this for the master thesis work of a friend of mine, Bilgesu Dogan, Designer. 
 * [vimeoEasy](https://github.com/gianfa/vimeoEasy)
+
+### Resources
+* [Deep Learning useful resources](https://github.com/gianfa/deep_learning_resources/blob/master/README.md)
+
