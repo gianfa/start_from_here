@@ -31,6 +31,7 @@ Some code that I made for my routines .
 ### Mini projects
 Here are links to some tools I made, for personal purposes or work.
 
+* [flightsfunnel.com](http://flightsfunnel.com) a web app to look for the cheapest combination of flights to meet in one place while coming from different oring places.
 * [Web CV](http://cvgian.herokuapp.com), check the mini projects page
 * [oro-facial_classifier](https://github.com/gianfa/oro-facial_classifier) ![Language](https://img.shields.io/badge/-Matlab-pink.svg)
 * [PlayNeurons](https://github.com/gianfa/PlayNeurons) ![Language](https://img.shields.io/badge/-Matlab-pink.svg)
