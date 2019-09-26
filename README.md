@@ -3,7 +3,7 @@
 
 # My repos
 
-## Tutorials
+## ~~Notes~~ Tutorials
 When I learn something new I like to challenge myself trying to explain it to somebody else like showing how to get over the learning obstacles I found. Also I think it is a way to better stimulate my recall months later, when I'll have forgotten almost everything 😅.  
 Here are some of my notes of this kind.  
 
