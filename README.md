@@ -20,7 +20,9 @@ Here are some of my notes of this kind.
 * [Learning Rate Annealing](https://www.kaggle.com/gianfa/learning-rate-annealing)![DeepLearning](https://img.shields.io/badge/-DeepLearning-red.svg) ![Language](https://img.shields.io/badge/-Python-green.svg) ![FastAIv1](https://img.shields.io/badge/-FastAIv1-black.svg) ![Kaggle](https://img.shields.io/badge/-Kaggle-9fefef.svg)
 * [FastAI Image Classifier base line](https://www.kaggle.com/gianfa/fastaiv1-image-classifier)![DeepLearning](https://img.shields.io/badge/-DeepLearning-red.svg) ![Language](https://img.shields.io/badge/-Python-green.svg) ![FastAIv1](https://img.shields.io/badge/-FastAIv1-black.svg) ![Kaggle](https://img.shields.io/badge/-Kaggle-9fefef.svg)
 * [FastAI Collaborative Filtering](https://www.kaggle.com/gianfa/fastaiv1-collaborative-filtering/)![DeepLearning](https://img.shields.io/badge/-DeepLearning-red.svg) ![Language](https://img.shields.io/badge/-Python-green.svg) ![FastAIv1](https://img.shields.io/badge/-FastAIv1-black.svg) ![Kaggle](https://img.shields.io/badge/-Kaggle-9fefef.svg)
++ [Understanding SVD and Compression](https://www.kaggle.com/gianfa/understanding-svd-and-compression)![Language](https://img.shields.io/badge/-Python-green.svg) ![Kaggle](https://img.shields.io/badge/-Kaggle-9fefef.svg)
 * [Docker by examples](https://github.com/gianfa/tutorials-docker_by_examples)
+
 
 ## Utilities
 
