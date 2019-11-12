@@ -1,6 +1,3 @@
-# Interests
-[Neuro & geeknering](https://www.facebook.com/neuromachinebrain/). It's a fb page that I opened with some friends to publish news about brain, sciences and technologies related to it.
-
 # My repos
 
 ## ~~Notes~~ Tutorials
@@ -41,6 +38,8 @@ Here are links to some tools I made, for personal purposes or work.
 Tool to create a nice ombroCinema picture. Still in alpha version, need some adjustment. I created this for the master thesis work of a friend of mine, Bilgesu Dogan, Designer. 
 * [vimeoEasy](https://github.com/gianfa/vimeoEasy)
 
-### Resources
+### Resources Collections
 * [Deep Learning useful resources](https://github.com/gianfa/deep_learning_resources/blob/master/README.md)
 
+# Interests
+[Neuro & geeknering](https://www.facebook.com/neuromachinebrain/). It's a fb page that I opened with some friends to publish news about brain, sciences and technologies related to it.
