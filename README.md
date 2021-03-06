@@ -10,6 +10,8 @@ Here are some of my notes of this kind.
 * [FastAI Image Classifier base line](https://www.kaggle.com/gianfa/fastaiv1-image-classifier)![DeepLearning](https://img.shields.io/badge/-DeepLearning-red.svg) ![Language](https://img.shields.io/badge/-Python-green.svg) ![FastAIv1](https://img.shields.io/badge/-FastAIv1-black.svg) ![Kaggle](https://img.shields.io/badge/-Kaggle-9fefef.svg)
 * [FastAI Collaborative Filtering](https://www.kaggle.com/gianfa/fastaiv1-collaborative-filtering/)![DeepLearning](https://img.shields.io/badge/-DeepLearning-red.svg) ![Language](https://img.shields.io/badge/-Python-green.svg) ![FastAIv1](https://img.shields.io/badge/-FastAIv1-black.svg) ![Kaggle](https://img.shields.io/badge/-Kaggle-9fefef.svg)
 + [Understanding SVD and Compression](https://www.kaggle.com/gianfa/understanding-svd-and-compression)![Language](https://img.shields.io/badge/-Python-green.svg) ![Kaggle](https://img.shields.io/badge/-Kaggle-9fefef.svg)
+* [Pandas](https://github.com/gianfa/notes/blob/main/pandas/pandas.ipynb)
+* [AWS Certification - Cloud Practitioner](https://github.com/gianfa/notes/blob/main/AWS-Cloud_Practitioner.ipynb)
 * [Docker by examples](https://github.com/gianfa/tutorials-docker_by_examples)
 * [Jupyter Notebooks versioning with Git](https://www.youtube.com/watch?v=hmPT-6ldupI) ![Language](https://img.shields.io/badge/-Git-black.svg)
 * [The Model Evaluation Game](https://gist.github.com/gianfa/4a370517e963d8cd6bd1bb3246ed68ad#file-ml-learn-model_evaluation-md) A sort of simple board-game rules to play with people who want to better understand the Machine Learning Model Evaluation basics. ![ML Stage](https://img.shields.io/badge/-MachineLearning-blue.svg)
@@ -22,6 +24,7 @@ Here are some of my notes of this kind.
 * [mongoose_discriminator](https://github.com/gianfa/tutorials-mongoose_discriminator) ![Language](https://img.shields.io/badge/-NodeJS-orange.svg)
 * [GraphQL](https://github.com/gianfa/tutorials-GraphQL) ![Language](https://img.shields.io/badge/-NodeJS-orange.svg)
 * [JS Promises](https://gist.github.com/gianfa/3cc0eee029bd375e83c436218fffb220) ![Language](https://img.shields.io/badge/-NodeJS-orange.svg)
+
 
 
 ## Utilities
