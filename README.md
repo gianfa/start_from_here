@@ -5,6 +5,7 @@ When I learn something new I like to challenge myself trying to explain it to so
 Here are some of my notes of this kind. 
 
 * [Einsum - practical notes](https://www.kaggle.com/gianfa/einsum-practical-notes/)![Language](https://img.shields.io/badge/-Python-green.svg) ![Kaggle](https://img.shields.io/badge/-Kaggle-9fefef.svg)
+* [Graph Theory - notes](https://github.com/gianfa/learn-graph_theory)![Notes](https://img.shields.io/badge/-Notes-blueviolet.svg)
 * [Interactive Gradient Descent](https://www.kaggle.com/gianfa/interactive-gradient-descent-from-math) ![Language](https://img.shields.io/badge/-Python-green.svg) ![Kaggle](https://img.shields.io/badge/-Kaggle-9fefef.svg)
 * [Learning Rate Annealing](https://www.kaggle.com/gianfa/learning-rate-annealing) ![DeepLearning](https://img.shields.io/badge/-DeepLearning-red.svg) ![Language](https://img.shields.io/badge/-Python-green.svg) ![FastAIv1](https://img.shields.io/badge/-FastAIv1-black.svg) ![Kaggle](https://img.shields.io/badge/-Kaggle-9fefef.svg)
 * [FastAI Image Classifier base line](https://www.kaggle.com/gianfa/fastaiv1-image-classifier)![DeepLearning](https://img.shields.io/badge/-DeepLearning-red.svg) ![Language](https://img.shields.io/badge/-Python-green.svg) ![FastAIv1](https://img.shields.io/badge/-FastAIv1-black.svg) ![Kaggle](https://img.shields.io/badge/-Kaggle-9fefef.svg)
@@ -24,6 +25,7 @@ Here are some of my notes of this kind.
 * [mongoose_discriminator](https://github.com/gianfa/tutorials-mongoose_discriminator) ![Language](https://img.shields.io/badge/-NodeJS-orange.svg)
 * [GraphQL](https://github.com/gianfa/tutorials-GraphQL) ![Language](https://img.shields.io/badge/-NodeJS-orange.svg)
 * [JS Promises](https://gist.github.com/gianfa/3cc0eee029bd375e83c436218fffb220) ![Language](https://img.shields.io/badge/-NodeJS-orange.svg)
+
 
 
 
